@@ -1,0 +1,1 @@
+A system that uses data from hospitals, clinics, and other healthcare providers to track the spread of diseases, monitor outbreaks, and identify potential health risks. This could help public health officials respond more effectively to disease outbreaks and prevent them from becoming widespread.
